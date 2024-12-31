@@ -38,3 +38,10 @@ https://devblogs.microsoft.com/engineering-at-microsoft/large-scale-distributed-
 
 https://en.wikipedia.org/wiki/List_of_build_automation_software
 
+Build Automation Tools for Software Development
+https://www.researchgate.net/publication/359531893_Build_Automation_Tools_for_Software_Development
+https://aircconline.com/csit/papers/vol12/csit120608.pdf
+
+https://www.lambdatest.com/learning-hub/build-automation
+
+https://www.browserstack.com/guide/build-automation
