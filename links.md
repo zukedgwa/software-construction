@@ -28,4 +28,13 @@ https://onlinelibrary.wiley.com/doi/10.1002/smr.2602
 Code Review of Build System Specifications: Prevalence, Purposes, Patterns, and Perceptions
 https://dl.acm.org/doi/10.1109/ICSE48619.2023.00108
 
+Build Systems à la Carte
+https://www.microsoft.com/en-us/research/uploads/prod/2018/03/build-systems.pdf
+
+BuildXL
+https://github.com/microsoft/BuildXL
+
+https://devblogs.microsoft.com/engineering-at-microsoft/large-scale-distributed-builds-with-microsoft-build-accelerator/
+
+https://en.wikipedia.org/wiki/List_of_build_automation_software
 
