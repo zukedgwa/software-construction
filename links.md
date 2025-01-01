@@ -45,3 +45,5 @@ https://aircconline.com/csit/papers/vol12/csit120608.pdf
 https://www.lambdatest.com/learning-hub/build-automation
 
 https://www.browserstack.com/guide/build-automation
+
+https://blogsystem5.substack.com/p/netbsd-build-system
