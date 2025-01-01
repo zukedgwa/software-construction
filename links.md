@@ -86,3 +86,11 @@ https://arxiv.org/pdf/2202.06183
 
 AntiPatterns
 http://antipatterns.com/EdJs_Paper/Antipatterns.html
+
+* These explore the complexities introduced with distros
+
+Macro-level software evolution: a case study of a large software compilation
+https://www.semanticscholar.org/paper/Macro-level-software-evolution%3A-a-case-study-of-a-Gonzalez-Barahona-Robles/497f6c53b09f276b826649d2bfffddddd259a278?utm_source=direct_link
+
+Mining large software compilations over time: another perspective of software evolution
+https://dl.acm.org/doi/10.1145/1137983.1137986

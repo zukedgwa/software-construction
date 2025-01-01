@@ -1,0 +1,8 @@
+
+
+from refextract import extract_references_from_file
+import pandas as pd
+from refextract import extract_references_from_file
+references = extract_references_from_file('Build System Issues in Multilanguage Software.pdf')
+df = pd.DataFrame(references)
+df.to_csv('out.csv',index=False)
