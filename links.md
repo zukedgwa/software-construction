@@ -46,4 +46,43 @@ https://www.lambdatest.com/learning-hub/build-automation
 
 https://www.browserstack.com/guide/build-automation
 
+20241231
+
 https://blogsystem5.substack.com/p/netbsd-build-system
+
+Forward build systems, formally
+https://dl.acm.org/doi/10.1145/3497775.3503687
+
+https://signalsandthreads.com/build-systems/
+
+https://www.researchgate.net/publication/259931667_Understanding_and_Improving_Software_Build_Teams
+
+Software build systems: principles and experience 
+https://dl.acm.org/doi/10.1145/1988997.1989005
+
+Software Build Systems: Principles and Experience
+https://www.pearson.de/media/muster/toc/toc_9780132171977.pdf
+
+Build system issues in multilanguage software
+https://ieeexplore.ieee.org/document/6405265
+https://andrew.neitsch.ca/publications/Build%20System%20Issues%20in%20Multilanguage%20Software.pdf
+** This has a useful pattern/anti-pattern structure that is breif and insightful.
+** The list of anti-patterns is breif
+*** Filename collision: Filename that are not treated the same in different filesystems
+*** Installation required: Build result has an installation process before it can be used
+*** Unverified 3rd Party Software: Unverifiable or Untestable  Dependencies
+*** Incorrect Dependencies: Dependencies that have to be specified
+*** Build-Free Extensiblity: Run-time extensiblities that can be broken without being part of the build 
+*** Object-Oriented Builds: Build System can be extended outside of the build system
+*** Ignored Error: not detecting and stopping on errors
+
+There are extensive resources on Anti-Patterns
+
+Classic Mistakes Enumerated
+https://athena.ecs.csus.edu/~buckley/CSc233/McConnell_Classic%20Mistakes%20Enumerated.pdf
+
+Video Game Project Management Anti-patterns
+https://arxiv.org/pdf/2202.06183
+
+AntiPatterns
+http://antipatterns.com/EdJs_Paper/Antipatterns.html
