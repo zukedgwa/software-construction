@@ -94,3 +94,8 @@ https://www.semanticscholar.org/paper/Macro-level-software-evolution%3A-a-case-s
 
 Mining large software compilations over time: another perspective of software evolution
 https://dl.acm.org/doi/10.1145/1137983.1137986
+
+20250106
+
+Yu, Y., Dayani-Fard, H., Mylopoulos, J., & Andritsos, P. (2005). Reducing build time through precompilations for evolving large software. Proceedings of the 21st IEEE International Conference on Software Maintenance (ICSM '05), 26-29 September, Budapest, Hungary. https://doi.org/10.1109/ICSM.2005.73
+https://www.cs.toronto.edu/~periklis/pubs/icsm05.pdf

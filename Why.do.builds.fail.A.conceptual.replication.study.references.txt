@@ -1,0 +1,127 @@
+Barrak, A., Eghan, E. E., Adams, B., & Khomh, F. (2021). Why do builds fail? A conceptual replication study. Journal of Systems and Software, 177, 15 pages. https://doi.org/10.1016/j.jss.2021.110939
+
+
+[1] J. Humble, D. Farley, Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation, 1st Edition, Addison-Wesley Professional, 2010.
+
+[2] Y. Yu, H. Dayani-Fard, J. Mylopoulos, P. Andritsos, Reducing build time through precompilations for evolving large software, in: 21st IEEE International Conference on Software Maintenance (ICSM’05), 2005, pp. 59–68. doi:10.1109/ICSM.2005.73.
+
+[3] M. Beller, G. Gousios, A. Zaidman, Oops, my tests broke the build: An explorative analysis of travis ci with github, in: 2017 IEEE/ACM 14th International Conference on Mining Software Repositories (MSR), 2017, pp. 356–367. doi: 10.1109/MSR.2017.62.
+
+[4] A. E. Hassan, K. Zhang, Using decision trees to predict the certification result of a build, in: 21st IEEE/ACM International Conference on Automated Software Engineering (ASE’06), 2006, pp. 189–198. doi:10.1109/ASE.2006.72.
+
+[5] M. Zolfagharinia, B. Adams, Y.-G. Guéhéneuc, Do not trust build results at face value: An empirical study of 30 million cpan builds, in: Proceedings of the 14th International Conference on Mining Software Repositories, MSR ’17, IEEE Press, Piscataway, NJ, USA, 2017, pp. 312–322. doi:10.1109/MSR.2017.7.
+
+[6] T. Wolf, A. Schroter, D. Damian, T. Nguyen, Predicting build failures using social network analysis on developer communication, in: Proceedings of the 31st International Conference on Software Engineering, ICSE ’09, IEEE Computer Society, Washington, DC, USA, 2009, pp. 1–11. doi:10.1109/ICSE. 2009.5070503.
+
+[7] I. Kwan, A. Schroter, D. Damian, Does socio-technical congruence have an effect on software build success? a study of coordination in a software project, IEEE Transactions on Software Engineering 37 (3) (2011) 307–324. doi:10.1109/TSE.2011.29.
+
+[8] J. Finlay, R. Pears, A. M. Connor, Data stream mining for predicting software build outcomes using source code metrics, Information and Software Technology 56 (2) (2014) 183 – 198. doi:https://doi.org/10.1016/j.infsof.2013.09.001.
+
+[9] A. E. Hassan, Predicting faults using the complexity of code changes, in: Proceedings of the 31st International Conference on Software Engineering, ICSE ’09, IEEE Computer Society, Washington, DC, USA, 2009, pp. 78–88. doi:10.1109/ICSE. 2009.5070510.
+
+[10] T. Rausch, W. Hummer, P. Leitner, S. Schulte, An empirical analysis of build failures in the continuous integration workflows of java-based open-source software, in: 2017 IEEE/ACM 14th International Conference on Mining Software Repositories (MSR), 2017, pp. 345–355. doi:10.1109/MSR.2017.54.
+
+[11] F. J. Shull, J. C. Carver, S. Vegas, N. Juristo, The role of replications in empirical software engineering, Empirical software engineering 13 (2) (2008) 211–218.
+
+[12] V. Garousi, B. Küçük, Smells in software test code: A survey of knowledge in industry and academia, Journal of Systems and Software 138 (2018) 52 – 81. doi:https://doi.org/10.1016/ j.jss.2017.12.013.
+
+[13] F. Khomh, M. Di Penta, Y. Gueheneuc, An exploratory study of the impact of code smells on software change-proneness, in: 2009 16th Working Conference on Reverse Engineering, 2009, pp. 75–84. doi:10.1109/WCRE.2009.28.
+
+[14] F. Khomh, M. D. Penta, Y.-G. Guéhéneuc, G. Antoniol, An exploratory study of the impact of antipatterns on class changeand fault-proneness, Empirical Software Engineering 17 (3) (2012) 243–275. doi:10.1007/s10664-011-9171-y.
+
+[15] F. Jaafar, Y.-G. Guéhéneuc, S. Hamel, F. Khomh, M. Zulkernine, Evaluating the impact of design pattern and antipattern dependencies on changes and faults, Empirical Software Engineering 21 (3) (2016) 896–931. doi:10.1007/ s10664-015-9361-0.
+
+[16] G. Bavota, A. Qusef, R. Oliveto, A. Lucia, D. Binkley, Are test smells really harmful? an empirical study, Empirical Softw. Engg. 20 (4) (2015) 1052–1094. doi:10.1007/ s10664-014-9313-0.
+
+[17] J. Xia, Y. Li, Could we predict the result of a continuous integration build? an empirical study, in: 2017 IEEE International Conference on Software Quality, Reliability and Security Companion (QRS-C), 2017, pp. 311–315. doi:10.1109/QRS-C.2017. 59.
+
+[18] Why do builds fail? – a conceptual replication study | zenodo, https://doi.org/10.5281/zenodo.4527601, (Accessed on 02/09/2021). doi:10.5281/zenodo.4527601.
+
+[18] Why do builds fail? – a conceptual replication study | zenodo, https://doi.org/10.5281/zenodo.4527601, (Accessed on 02/09/2021). doi:10.5281/zenodo.4527601.
+
+[19] C. Zhang, B. Chen, L. Chen, X. Peng, W. Zhao, A large-scale empirical study of compiler errors in continuous integration, in: Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering, ESEC/FSE 2019, Association for Computing Machinery, New York, NY, USA, 2019, p. 176–187. doi:10.1145/3338906.3338917.
+
+[20] C. Vassallo, G. Schermann, F. Zampetti, D. Romano, P. Leitner, A. Zaidman, M. D. Penta, S. Panichella, A tale of ci build failures: An open source and a financial organization perspective, in: 2017 IEEE International Conference on Software Maintenance and Evolution (ICSME), 2017, pp. 183–193. doi:10.1109/ICSME.2017.67.
+
+[21] H. Seo, C. Sadowski, S. Elbaum, E. Aftandilian, R. Bowdidge, Programmers’ build errors: A case study (at google), in: Proceedings of the 36th International Conference on Software Engineering, ICSE 2014, ACM, New York, NY, USA, 2014, pp. 724–734. doi:10.1145/2568225.2568255.
+
+[22] X. Jin, F. Servant, A cost-efficient approach to building in continuous integration, in: Proceedings of the 42nd International Conference on Software Engineering, ICSE 2020, IEEE Computer Society, 2020, pp. 13–25.
+
+[23] A. Sabané, M. Di Penta, G. Antoniol, Y. Guéhéneuc, A study on the relation between antipatterns and the cost of class unit testing, in: 2013 17th European Conference on Software Maintenance and Reengineering, 2013, pp. 167–176. doi:10.1109/ CSMR.2013.26.
+
+[24] R. Peters, A. Zaidman, Evaluating the lifespan of code smells using software repository mining, in: Proceedings of the 2012 16th European Conference on Software Maintenance and Reengineering, CSMR ’12, IEEE Computer Society, Washington, DC, USA, 2012, pp. 411–416. doi:10.1109/CSMR.2012.79.
+
+[25] M. Tufano, F. Palomba, G. Bavota, M. Di Penta, R. Oliveto, A. De Lucia, D. Poshyvanyk, An empirical investigation into the nature of test smells, in: Proceedings of the 31st IEEE/ACM International Conference on Automated Software Engineering, ASE 2016, Association for Computing Machinery, New York, NY, USA, 2016, p. 4–15. doi:10.1145/2970276.2970340.
+
+[26] S. E. S. Taba, F. Khomh, Y. Zou, A. E. Hassan, M. Nagappan, Predicting bugs using antipatterns, in: Proceedings of the 2013 IEEE International Conference on Software Maintenance, ICSM ’13, IEEE Computer Society, Washington, DC, USA, 2013, pp. 270–279. doi:10.1109/ICSM.2013.38.
+
+[26] S. E. S. Taba, F. Khomh, Y. Zou, A. E. Hassan, M. Nagappan, Predicting bugs using antipatterns, in: Proceedings of the 2013 IEEE International Conference on Software Maintenance, ICSM ’13, IEEE Computer Society, Washington, DC, USA, 2013, pp. 270–279. doi:10.1109/ICSM.2013.38.
+
+[27] M. Beller, G. Gousios, A. Zaidman, Travistorrent: Synthesizing travis ci and github for full-stack research on continuous integration, in: 2017 IEEE/ACM 14th International Conference on Mining Software Repositories (MSR), 2017, pp. 447– 450. doi:10.1109/MSR.2017.24.
+
+[28] S. Baltes, P. Ralph, Sampling in software engineering research: A critical review and guidelines (2020). arXiv:2002.07764.
+
+[29] Y.-G. GUÉHÉNEUC, sad [ptidej team], http://wiki.ptidej. net/doku.php?id=sad, (Accessed on 02/17/2018) (2007).
+
+[30] F. E. Harrell Jr, Regression modeling strategies: with applications to linear models, logistic and ordinal regression, and survival analysis, Springer, 2015.
+
+[31] F. Hassan, X. Wang, Change-aware build prediction model for stall avoidance in continuous integration, in: 2017 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), 2017, pp. 157–162. doi:10.1109/ ESEM.2017.23.
+
+[32] C. Macho, S. McIntosh, M. Pinzger, Predicting build co-changes with source code change and commit categories, in: 2016 IEEE 23rd International Conference on Software Analysis, Evolution, and Reengineering (SANER), Vol. 1, 2016, pp. 541–551. doi: 10.1109/SANER.2016.22.
+
+[33] S. Suzuki, H. Aman, S. Amasaki, T. Yokogawa, M. Kawahara, An application of the pagerank algorithm to commit evaluation on git repository, in: 2017 43rd Euromicro Conference on Software Engineering and Advanced Applications (SEAA), 2017, pp. 380–383. doi:10.1109/SEAA.2017.24.
+
+[34] J. Eyolfson, L. Tan, P. Lam, Do time of day and developer experience affect commit bugginess?, in: Proceedings of the 8th Working Conference on Mining Software Repositories, MSR ’11, Association for Computing Machinery, New York, NY, USA, 2011, p. 153–162. doi:10.1145/1985441.1985464.
+
+[35] P. Rotella, S. Chulani, Analysis of customer satisfaction survey data, in: 2012 9th IEEE Working Conference on Mining Software Repositories (MSR), 2012, pp. 88–97. doi:10.1109/MSR. 2012.6224304.
+
+[36] J. W. Graham, Missing data analysis: Making it work in the real world, Annual review of psychology 60 (2009) 549–576.
+
+[37] G. Canfora, L. Cerulo, M. Di Penta, F. Pacilio, An exploratory study of factors influencing change entropy, in: 2010 IEEE 18th International Conference on Program Comprehension, 2010, pp. 134–143. doi:10.1109/ICPC.2010.32.
+
+[38] A. Chatzigeorgiou, A. Manakos, Investigating the evolution of code smells in object-oriented systems, Innovations in Systems and Software Engineering 10 (1) (2014) 3–18. doi:10.1007/ s11334-013-0205-z.
+
+[39] J. Han, M. Kamber, J. Pei, 3 - data preprocessing, in: J. Han, M. Kamber, J. Pei (Eds.), Data Mining (Third Edition), third edition Edition, The Morgan Kaufmann Series in Data Management Systems, Morgan Kaufmann, Boston, 2012, pp. 83 – 124. doi:10.1016/B978-0-12-381479-1.00003-4.
+
+[40] L. Breiman, Random forests, Machine Learning 45 (1) (2001) 5–32. doi:10.1023/A:1010933404324.
+
+[41] R. Díaz-Uriarte, S. Alvarez de Andrés, Gene selection and classification of microarray data using random forest, BMC Bioinformatics 7 (1) (2006) 3. doi:10.1186/1471-2105-7-3.
+
+[42] B. Efron, Estimating the error rate of a prediction rule: Improvement on cross-validation, Journal of the American Statistical Association 78 (382) (1983) 316–331. doi:10.1080/ 01621459.1983.10477973.
+
+[43] T. G. Dietterich, Approximate statistical tests for comparing supervised classification learning algorithms, Neural Computation 10 (7) (1998) 1895–1923. doi:10.1162/089976698300017197.
+
+[44] A. Dmitrienko, G. G. Koch, Analysis of clinical trials using SAS: A practical guide, SAS Institute, 2017.
+
+[45] Y. Kamei, A. Monden, S. Matsumoto, T. Kakimoto, K. Matsumoto, The effects of over and under sampling on fault-prone module detection, in: First International Symposium on Empirical Software Engineering and Measurement (ESEM 2007), 2007, pp. 196–204. doi:10.1109/ESEM.2007.28.
+
+[46] K. Kotipalli, S. Suthaharan, Modeling of class imbalance using an empirical approach with spambase dataset and random forest classification, in: Proceedings of the 3rd Annual Conference on Research in Information Technology, RIIT ’14, Association for Computing Machinery, New York, NY, USA, 2014, p. 75–80. doi:10.1145/2656434.2656442.
+
+[47] G. Lemaundefinedtre, F. Nogueira, C. K. Aridas, Imbalancedlearn: A python toolbox to tackle the curse of imbalanced datasets in machine learning, J. Mach. Learn. Res. 18 (1) (2017) 559–563.
+
+[48] E. Shihab, Y. Kamei, B. Adams, A. E. Hassan, Is lines of code a good measure of effort in effort-aware models?, Inf. Softw. Technol. 55 (11) (2013) 1981–1993. doi:10.1016/j.infsof.2013. 06.002.
+
+[49] M. W. Godfrey, A. E. Hassan, J. Herbsleb, G. C. Murphy, M. Robillard, P. Devanbu, A. Mockus, D. E. Perry, D. Notkin, Future of mining software archives: A roundtable, IEEE Software 26 (1) (2009) 67–70. doi:10.1109/MS.2009.10.
+
+[50] P. M. Duvall, S. Matyas, A. Glover, Continuous integration: improving software quality and reducing risk, Pearson Education, 2007.
+
+[51] J. Eyolfson, L. Tan, P. Lam, Do time of day and developer experience affect commit bugginess?, in: Proceedings of the 8th Working Conference on Mining Software Repositories, MSR ’11, Association for Computing Machinery, New York, NY, USA, 2011, p. 153–162. doi:10.1145/1985441.1985464. URL https://doi.org/10.1145/1985441.1985464
+
+[51] J. Eyolfson, L. Tan, P. Lam, Do time of day and developer experience affect commit bugginess?, in: Proceedings of the 8th Working Conference on Mining Software Repositories, MSR ’11, Association for Computing Machinery, New York, NY, USA, 2011, p. 153–162. doi:10.1145/1985441.1985464. URL https://doi.org/10.1145/1985441.1985464
+
+[52] E. Doğan, E. Tüzün, K. A. Tecimer, H. A. Güvenir, Investigating the validity of ground truth in code reviewer recommendation studies, in: 2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), IEEE, 2019, pp. 1–6.
+
+[52] E. Doğan, E. Tüzün, K. A. Tecimer, H. A. Güvenir, Investigating the validity of ground truth in code reviewer recommendation studies, in: 2019 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), IEEE, 2019, pp. 1–6.
+
+[53] Z. Xia, H. Sun, J. Jiang, X. Wang, X. Liu, A hybrid approach to code reviewer recommendation with collaborative filtering, in: 2017 6th International Workshop on Software Mining (SoftwareMining), IEEE, 2017, pp. 24–31.
+
+[54] A. V. Deursen, L. Moonen, A. Bergh, G. Kok, Refactoring test code, in: Proceedings of the 2nd International Conference on Extreme Programming and Flexible Processes in Software Engineering (XP2001, 2001, pp. 92–95.
+
+[55] D. Spadini, F. Palomba, A. Zaidman, M. Bruntink, A. Bacchelli, On the relation of test smells to software code quality, in: 2018 IEEE International Conference on Software Maintenance and Evolution (ICSME), IEEE, 2018, pp. 1–12.
+
+[55] D. Spadini, F. Palomba, A. Zaidman, M. Bruntink, A. Bacchelli, On the relation of test smells to software code quality, in: 2018 IEEE International Conference on Software Maintenance and Evolution (ICSME), IEEE, 2018, pp. 1–12.
+
+[56] A. Chatzigeorgiou, A. Manakos, Investigating the evolution of bad smells in object-oriented code, in: 2010 Seventh International Conference on the Quality of Information and Communications Technology, 2010, pp. 106–115. doi:10.1109/QUATIC. 2010.16.
+
+[57] K. Gallaba, C. Macho, M. Pinzger, S. McIntosh, Noise and heterogeneity in historical build data: An empirical study of travis ci, in: Proceedings of the 33rd ACM/IEEE International Conference on Automated Software Engineering, ASE 2018, Association for Computing Machinery, New York, NY, USA, 2018, p. 87–97. doi:10.1145/3238147.3238171.
+

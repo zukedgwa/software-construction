@@ -1,0 +1,64 @@
+McIntosh, S., Adams, B., Nguyen, T. H. D., Kamei, Y., & Hassan, A. E. (2011). An empirical study of build maintenance effort. Proceedings of the 33rd International Conference on Software Engineering (ICSE '11), 141-150. ACM. https://rebels.cs.uwaterloo.ca/papers/icse2011_mcintosh.pdf
+
+[1] Classified files. http://sailhome.cs.queensu. ca/~shane/Shane_McIntosh/Publications_files/ classified_files.tar.bz2.
+
+[2] B. Adams, K. De Schutter, H. Tromp, and W. De Meuter. The evolution of the linux build system. Electronic Communications of the ECEASST, 8, 2008.
+
+[3] B. Adams, K. De Schutter, H. Tromp, and W. Meuter. Design Recovery and Maintenance of Build Systems. In Proc. of the 23rd Int’l Conf. on Software Maintenance (ICSM), pages 114–123, 2007.
+
+[4] R. Agrawal, T. Imielinski, and A. Swami. Mining Association Rules between Sets of Items in Large Databases. ACM SIGMOD Records, 22(2):207–216, 1993.
+
+[5] C. Bird, A. Bachmann, E. Aune, J. Duffy, A. Bernstein, V. Filkov, and P. Devanbu. Fair and Balanced? Bias in Bug-Fix Datasets. In Proc. of the 7th European Software Eng. Conf/Sym. on the Foundations of Software Eng. (ESEC/FSE), pages 121–130, 2009.
+
+[6] S. Brin, R. Motwani, J. D. Ullman, and S. Tsur. Dynamic Itemset Counting and Implication Rules for Market Basket Data. In Proc. of the 1997 ACM SIGMOD Int’l Conf. on Management Of Data, pages 255–264. ACM, 1997.
+
+[7] E. Dolstra, E. Visser, and M. de Jonge. Imposing a Memory Management Discipline on Software Deployment. In Proc. of the 26th Int’l Conf. on Software Engineering (ICSE), pages 583–592. IEEE Computer Society, 2004.
+
+[8] H. Gall, K. Hajek, and M. Jazayeri. Detection of Logical Coupling Based on Product Release History. In Proc. of the 14th Int’l Conf. on Software Maintenance (ICSM), pages 190–198. IEEE Computer Society, 1998.
+
+[9] L. Grimmer. Building MySQL Server with CMake on Linux/Unix. http://www.lenzg.net/archives/ 291-Building-MySQL-Server-with-CMake-on-LinuxUnix. html, 2010. Last viewed: 08-Feb-2011.
+
+[10] P. Kampstra. Beanplot: A boxplot alternative for visual comparison of distributions. Journal of Statistical Software, Code Snippets, 28(1):1–9, 2008.
+
+[11] KDE developer: “mosfet”. Autoconf/Automake errors in kdelibs. http://lists.kde.org/?l= kde-core-devel&m=95953244511288&w=4. Last viewed: 08-Feb-2011.
+
+[12] K. S. Krishna, P. R. Krishna, and S. K. De. Discovering fuzzy association rules with interest and conviction measures. In R. Khosla, R. J. Howlett, and L. C. Jain, editors, Knowledge-Based Intelligent Information and Engineering Systems, volume 3684 of Lecture Notes in Computer Science, pages 101–107. 2005.
+
+[13] G. Kumfert and T. Epperly. Software in the DOE: The Hidden Overhead of “The Build”. Technical Report UCRL-ID-147343, Lawrence Livermore National Laboratory, CA, USA, February 2002.
+
+[14] Linden Labs. CMake. http://wiki.secondlife.com/ wiki/CMake. Last viewed: 08-Feb-2011.
+
+[15] Z. Lubsen, A. Zaidman, and M. Pinzger. Using Association Rules to Study the Co-evolution of Production & Test Code. In Proc. of the 6th Working Conf. on Mining Software Repositories (MSR), pages 151–154. IEEE Computer Society, 2009.
+
+[16] S. McIntosh, B. Adams, and A. E. Hassan. The Evolution of ANT Build Systems. In Proc. of the 7th working conf. on Mining Software Repositories (MSR), pages 42–51. IEEE Computer Society, 2010.
+
+[17] A. Miller. js/Makefile.in gone but still in allmakefiles.sh. https://bugzilla.mozilla.org/show_bug. cgi?id=351377. Last viewed: 08-Feb-2011.
+
+[18] P. Miller. Recursive Make Considered Harmful. In Australian Unix User Group Newsletter, volume 19, pages 14–25, 1998.
+
+[19] MSDN. The Microsoft Build Engine (MSBuild). http://msdn.microsoft.com/en-us/library/ dd393574.aspx. Last viewed: 06-Feb-2011.
+
+[20] N. Nagappan and T. Ball. Use of Relative Code Churn Measures to Predict System Defect Density. In Proc. of the 27th Int’l Conf. on Software Engineering (ICSE), pages 284–292. ACM, 2005.
+
+[21] N. Nagappan and T. Ball. Using Software Dependencies and Churn Metrics to Predict Field Failures: An Empirical Case Study. In Proc. of the 1st Int’l Symp. on Empirical Software Engineering and Measurement (ESEM), pages 364–373. IEEE Computer Society, 2007.
+
+[22] A. Neundorf. Why the KDE project switched to CMake – and how (continued). http://lwn.net/Articles/ 188693/. Last viewed: 08-Feb-2011.
+
+[23] T. Neustupny. Build failed in Hudson, what to do? http://argouml.tigris.org/ds/viewMessage.do? dsForumId=450&dsMessageId=2618367. Last viewed: 08-Feb-2011.
+
+[24] G. V. Neville-Neal. Kode Vicious: System Changes and Side Effects. Communications of the ACM, 52(4):25–26, April 2009.
+
+[25] T. H. D. Nguyen, B. Adams, and A. E. Hassan. A case study of bias in bug-fix datasets. In Proc. of the 17th Working Conf. on Reverse Engineering (WCRE), pages 259–268, 2010.
+
+[26] G. Niemeyer and J. Poteet. Extreme Programming with Ant: Building and Deploying Java Applications with JSP, EJB, XSLT, XDoclet, and JUnit. Sams, 1st edition, 2003.
+
+[27] J. A. Rice. Mathematical Statistics and Data Analysis. Duxbury press, 1995.
+
+[28] G. Robles, J. M. Gonzalez-Barahona, and J. J. Merelo. Beyond Source Code: The Importance of Other Artifacts in Software Development (A Case Study). Journal of Systems and Software (JSS), 79(9):1233–1248, 2006.
+
+[29] T. Steiner. mozStorage chokes on databases over AFP. https://bugzilla.mozilla.org/show_bug. cgi?id=417037. Last viewed: 08-Feb-2011.
+
+[30] Q. Tu and M. Godfrey. The build-time software architecture view. In Proc. of IEEE Int’l Conf. on Software Maintenance (ICSM), pages 398–407. IEEE Computer Society, 2002.
+
+[31] A. Zaidman, B. V. Rompaey, S. Demeyer, and A. van Deursen. Mining Software Repositories to Study CoEvolution of Production & Test Code. In Proc. of the 1st Int’l Conf. on Software Testing, Verification, and Validation (ICST), pages 220–229. IEEE Computer Society, 2008.
+
