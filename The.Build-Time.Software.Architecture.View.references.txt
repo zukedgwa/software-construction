@@ -1,0 +1,34 @@
+Tu, Q., & Godfrey, M. W. (2001). *The Build-Time Software Architecture View*. Presented at the International Conference on Software Maintenance (ICSM), Florence, Italy. Retrieved from https://research.cs.queensu.ca/home/ahmed/home/teaching/CISC322/F08/files/BuildTimeView_ICSM2001.pdf
+
+[1] A. V. Aho, R. Sethi, and J. D. Ullman. Compilers: Priciples, Techniques and Tools. Addison Wesley, 1986.
+
+[2] L. Bass, P. Clements, and R. Kazman. Software Architecture In Practice. Addison Wesley, 1998.
+
+[3] I. T. Bowman, R. C. Holt, and N. V. Brewster. Linux as a case study: Its extracted software architecture. In Proc. of the  Intl. Conference on Software Engineering (ICSE21), Los Angeles, CA, May 1999.
+
+[4] M. Campione, K. Walrath, and A. Huml. The Java tutorial: A practical guide for programmers. Website. http://java.sun.com/docs/books/tutorial/java/.
+
+[5] M. W. Godfrey and E. H. S. Lee. Secrets from the monster: Extracting Mozilla’s software architecture. In Proc. of 2000 Intl. Symposium on Constructing software engineering tools (CoSET 2000), Limerick, Ireland, June 2000.
+
+[6] C. Hofmeister, R. Nord, and D. Soni. Applied Software Architecture. Addison Wesley, 2000.
+
+[7] http://www.gnu.org/software/gcc/. GCC homepage. Website.
+
+[8] http://www.perl.com. The Perl homepage. Website.
+
+[9] P. Kruchten. The 4+1 view model of architecture. IEEE Software, 12(5), November 1995.
+
+[10] H.-P. Nilsson. Porting GCC for dummies. Website. ftp://ftp.axis.se/pub/users/hp/pgccfd/.
+
+[11] D. E. Perry. Foundations for the study of software architecture. ACM SIGSOFT Software Engineering Notes, 17(4), October 1992.
+
+[12] T. Pittman and J. Peters. The Art of Compiler Design, Theory and Practice. Prentice-Hall, 1992.
+
+[13] M. Shaw and D. Garlan. SoftwareArchitecture: Perspectives on an Emerging Discipline. Prentice Hall, 1996.
+
+[14] The Perl mailing lists. Website. http://www.perl.org/support/mailing lists.html.
+
+[15] J. B. Tran, M. W. Godfrey, E. H. S. Lee, and R. C. Holt. Architecture analysis and repair of open source software. In Proc. of 2000 Intl. Workshop on Program Comprehension (IWPC’00), Limerick, Ireland, June 2000.
+
+[16] L. Wall, T. Christiansen, and J. Orwant. Programming Perl. O’Reilly & Associates, 2000.
+

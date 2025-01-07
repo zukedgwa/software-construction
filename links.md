@@ -99,3 +99,6 @@ https://dl.acm.org/doi/10.1145/1137983.1137986
 
 Yu, Y., Dayani-Fard, H., Mylopoulos, J., & Andritsos, P. (2005). Reducing build time through precompilations for evolving large software. Proceedings of the 21st IEEE International Conference on Software Maintenance (ICSM '05), 26-29 September, Budapest, Hungary. https://doi.org/10.1109/ICSM.2005.73
 https://www.cs.toronto.edu/~periklis/pubs/icsm05.pdf
+
+Tu, Q., & Godfrey, M. W. (2001). *The Build-Time Software Architecture View*. Presented at the International Conference on Software Maintenance (ICSM), Florence, Italy. Retrieved from https://research.cs.queensu.ca/home/ahmed/home/teaching/CISC322/F08/files/BuildTimeView_ICSM2001.pdf
+https://research.cs.queensu.ca/home/ahmed/home/teaching/CISC322/F08/files/BuildTimeView_ICSM2001.pdf
