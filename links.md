@@ -102,3 +102,13 @@ https://www.cs.toronto.edu/~periklis/pubs/icsm05.pdf
 
 Tu, Q., & Godfrey, M. W. (2001). *The Build-Time Software Architecture View*. Presented at the International Conference on Software Maintenance (ICSM), Florence, Italy. Retrieved from https://research.cs.queensu.ca/home/ahmed/home/teaching/CISC322/F08/files/BuildTimeView_ICSM2001.pdf
 https://research.cs.queensu.ca/home/ahmed/home/teaching/CISC322/F08/files/BuildTimeView_ICSM2001.pdf
+
+20250113
+
+Removing False Code Dependencies to Speedup Software Build Processes
+
+https://www.cs.toronto.edu/~yijun/literature/paper/yu03cascon.pdf
+
+https://www.academia.edu/60261473/Categorization_of_Software_Release_Risks_and_Its_Abatement_Strategy
+
+https://www.academia.edu/872309/Introducing_Support_for_Release_Planning_of_Quality_Requirements_An_Industrial_Evaluation_of_the_QUPER_Model

@@ -1,0 +1,41 @@
+Berntsson Svensson, Richard, Thomas Olsson, and Björn Regnell. "Introducing Support for Release Planning of Quality Requirements—An Industrial Evaluation of the QUPER Model." Second International Workshop on Software Product Management (IWSPM '08), IEEE, 2008, pp. 20-28.
+
+
+[1] T. AlBourae, G. Ruhe and M. Moussavi, “Lightweight Replanning of Software Product Releases”, in Proceedings of the 1st International Workshop on Software Product Management, 2006, pp. 27-34.
+
+[2] P. Carlshamre, “Release planning in market-driven software product development: Provoking an understanding”, Requirements Engineering, Vol. 7, 2002, pp. 139-151.
+
+[3] Gilb, T., Competitive Engineering, Elsevier, Butterworth-Heinemann, 2005.
+
+[4] D. Greer and G. Ruhe, “Software release planning: An evolutionary and iterative approach”, Information and Software Technology, Vol. 46, 2004, pp. 243-253.
+
+[5] S. Jacobs, “Introducing Measurable Quality Requirements: A Case Study”, in Proceedings of the 4th IEEE international Symposium on Requirements Engineering, IEEE CS Press, 1999, pp. 172-179.
+
+[5] S. Jacobs, “Introducing Measurable Quality Requirements: A Case Study”, in Proceedings of the 4th IEEE international Symposium on Requirements Engineering, IEEE CS Press, 1999, pp. 172-179.
+
+[6] N. Kano, S. Nobuhiro, F. Takahashi and S. Tsuji, “Attractive quality and must-be quality”, Hinshitsu, Vol. 14, 1984, pp. 39-48.
+
+[7] J. Karlsson, “Managing Software Requirements Using Quality Function Deployment”, Software Quality, Vol. 18, 1997, pp. 311-326.
+
+[8] J. Karlsson and K. Ryan, “A cost-value approach for prioritizing requirements”, IEEE Software, Vol. 14, 1997, pp. 67-74.
+
+[9] B. Regnell, R. Berntsson Svensson, and T. Olsson, ”Supporting Roadmapping of Quality Requirements”, IEEE Software, Vol. 25(2), 2008, pp. 42-47.
+
+[10] B. Regnell, R. Berntsson Svensson, and K. Wnuk, ”Can We Beat the Complexity of Very Large-Scale Requirements Engineering?”, in Proceedings of the 13th International Workshop on Requirements Engineering: Foundation for Software Quality, LNCS 5025, Springer, 2008, pp. 123-128.
+
+[11] B. Regnell, M. Höst, and R. Berntsson Svensson, ”A Quality Performance Model for Cost-Benefit Analysis of Non-Functional Requirement Applied to the Mobile Handset Domain”, in Proceedings of the 12th International Workshop on Requirements Engineering: Foundation for Software Quality, LNCS 4542, Springer, 2007, pp. 277-291.
+
+[12] B. Regnell, O.H. Olsson, and S. Mossberg, “Assessing Requirements Compliance Scenarios in System Platform Subcontracting”, in Proceedings of the 7th International Conference on Product Focused Software Process Improvement, Amsterdam The Netherlands, 2006, pp. 362376.
+
+[13] Robson, C., Real World Research, Blackwell, Oxford, 2002.
+
+[14] Saaty, T., The Analytic Hierarchy Process, McGrawHill, 1980.
+
+[15] M.I. Ullah and G. Ruhe, “Towards Comprehensive Release Planning for Software Product Lines”, in Proceedings of the 1st International Workshop on Software Product Management, 2006, pp. 51-55.
+
+[16] I. van de Weerd, S. Brinkkemper, R. Nieuwenhuis, J. Versendaal and L. Bijlsma, ”On the Creation of a Reference Framework for Software Product Management: Validation and Tool Support”, in Proceedings of the 1st International Workshop on Software Product Management, 2006, pp. 311.
+
+[17] Wohlin, C., P. Runeson, M. Höst, M.C. Ohlson, B. Regnell, and A. Wesslén, Experimentation in Software Engineering: An introduction, Kluwer Academic, Boston, MA, 2000.
+
+[17] Wohlin, C., P. Runeson, M. Höst, M.C. Ohlson, B. Regnell, and A. Wesslén, Experimentation in Software Engineering: An introduction, Kluwer Academic, Boston, MA, 2000.
+
