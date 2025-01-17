@@ -112,3 +112,9 @@ https://www.cs.toronto.edu/~yijun/literature/paper/yu03cascon.pdf
 https://www.academia.edu/60261473/Categorization_of_Software_Release_Risks_and_Its_Abatement_Strategy
 
 https://www.academia.edu/872309/Introducing_Support_for_Release_Planning_of_Quality_Requirements_An_Industrial_Evaluation_of_the_QUPER_Model
+
+Software in the DOE: The Hidden Overhead of “The Build”
+
+https://digital.library.unt.edu/ark:/67531/metadc1405506/m2/1/high_res_d/15005938.pdf
+
+https://mitschi.github.io/preprints/poster_final.pdf

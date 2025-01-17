@@ -1,0 +1,48 @@
+N. Kerzazi, F. Khomh and B. Adams, "Why Do Automated Builds Break? An Empirical Study," 2014 IEEE International Conference on Software Maintenance and Evolution, Victoria, BC, Canada, 2014, pp. 41-50, doi: 10.1109/ICSME.2014.26. keywords: {Software;Interviews;Companies;Collaboration;Context;Statistical analysis;Empirical Software Engineering;Automated Builds;Data Mining;Software Quality},
+
+[1] J. Humble and D. Farley Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation. AddisonWesley Professional, 2010.
+
+[2] B. Adams,H. Tromp,K. De Schutter, et al., Design recovery and maintenance of build systems. in Int Conf on Soft Maintenance, ICSM'07, 114-123, 2007.
+
+[3] Y. Brun,R. Holmes,M.D. Ernst, et al. Early Detection of Collaboration Conflicts and Risks. IEEE Trans on Soft Eng, 39 (10): 1358-1375, 2013.
+
+[4] M. Cataldo and J.D. Herbsleb. Factors leading to integration failures in global feature-oriented development: an empirical analysis. ACM ed. 33rd Int Conf on Soft Eng, Honolulu, HI, USA, 161-170, 2011.
+
+[5] J. Holck and N. Jørgensen Continuous Integration and Quality Assurance: A Case Study of Two Open Source Projects. Australasian Journal of Information Systems, 11 (1): 40-53, 2004.
+
+[6] S. Phillips,T. Zimmermann and C. Bird. Understanding and Improving Software Build Teams The 36th International Conference on Software Engineering, ICSE'14, India, 2014.
+
+[7] A.E. Hassan and K. Zhang, Using Decision Trees to Predict the Certification Result of a Build. in Automated Software Engineering, ASE '06., 189-198, 2006.
+
+[8] I. Kwan,A. Schroter and D. Damian Does Socio-Technical Congruence Have an Effect on Software Build Success? A Study of Coordination in a Software Project. IEEE Trans on Soft Eng, 37 (3): 307-324, 2011.
+
+[9] S. McIntosh,B. Adams,T.H.D. Nguyen, et al., An empirical study of build maintenance effort. in The 33th International Conference on Software Engineering, ICSE'11, 141-150, 2011.
+
+[10] S. Phillips,G. Ruhe and J. Sillito, Information needs for integration decisions in the release process of large-scale parallel development. in Proceedings of the ACM 2012 conference on Computer Supported Cooperative Work, (Washington, USA), 1371-1380, 2012.
+
+[11] A. Mockus and D.M. Weiss. Understanding and predicting effort in software projects Proc of the 25th Int Conf on Soft Eng, Portland, USA, 274-284, 2003.
+
+[12] J.W. Creswell Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, 3rd ed. Sage Publications, Inc., 2009.
+
+[13] B. Kitchenham and S. Pfleeger. Personal Opinion Surveys. in Shull, F., Singer, J. and Sjøberg, D.K. eds. Guide to Advanced Empirical Software Engineering, Springer, 2008, 63-92.
+
+[14] Y. Brun,R. Holmes,M.D. Ernst, et al. Proactive detection of collaboration conflicts Proc. of the 19th ACM SIGSOFT symposium and the 13th European conference on Foundations of software engineering, Szeged, Hungary, 168-178, 2011.
+
+[15] Y. Brun,R. Holmes,M.D. Ernst, et al. Proactive detection of collaboration conflicts 13th European conf on Foundations of software engineering, Szeged, Hungary, 168-178, 2011.
+
+[16] T. Fritz,J. Ou,G.C. Murphy, et al. A degree-of-knowledge model to capture source code familiarity 32nd Int Conf on Software Engineering, Cape Town, South Africa, 385-394, 2010.
+
+[17] A. Liaw and M. Wiener Classification and Regression by randomForest. R News, 2 (3): 18-22, 2002.
+
+[18] J. Romano,D.J. Kromrey,J. Coraggio, et al., Appropriate statistics for ordinal level data: Should we really be using t-test and cohen’s d for evaluating group differences on the nsse and other surveys? in Annual Meeting of the Florida Association of Institutional Research, 1-33, February 2006.
+
+[19] G. Biau Analysis of a random forests model. Journal of Machine Learning Research, 13 (1): 1532-4435, 2012.
+
+[20] D.J. Sheskin Handbook of Parametric and Nonparametric Statistical Procedures (4 ed). Chapman & Hall/CRC, 2007.
+
+[21] J. Eyolfson,L. Tan and P. Lam. Do time of day and developer experience affect commit bugginess? 8th Conf on Mining Software Repositories, ACM, Waikiki, HI, USA, 153-162, 2011.
+
+[22] N. Ning and D.E. Harter Impact of Budget and Schedule Pressure on Software Development Cycle Time and Effort. IEEE Trans on Software Engineering, 35 (5): 624-637, 2009.
+
+[23] V.R. Basili,F. Shull and F. Lanubile Building Knowledge Trough Families of experiments IEEE Trans on Soft. Eng., 25 (4): 456-473, 1999.
+
