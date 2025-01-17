@@ -1,0 +1,54 @@
+Aggarwal A, Singh V. Migration aspects from monolith to distributed systems using software code build and deployment time and latency perspective. Telkomnika. 2024;22(4):854-860. doi:10.12928/TELKOMNIKA.v22i4.25655
+
+[1] C. Kolassa, D. Riehle, and M. A. Salim, “A Model of the Commit Size Dist. of Open Source,” Proc. SOFSEM’13, vol. 7741, pp. 52–66, 2013, doi: 10.1007/978-3-642-35843-2_6.
+
+[2] Q. Hou, Y. Ma, J. Chen, and Y. Xu, “An Empirical Study on Inter-Commit Times in SVN,” Proc. S/w Engg. and Know. Engg.,” pp. 132–137, 2014.
+
+[3] S. Vaidya, S. Torres-Arias, R. Curtmola, and C. Cappos, “Commit Signatures for Cen. Version Control Systems,” Proc. IFIP Adv. in Infor. and Comm. Tech., vol. 562, pp. 359-3732019, doi: 10.1007/978-3-030-22312-0_25.
+
+[4] M. Clemencic, B. Couturier, J. Closier, and M. Cattaneo, “LHCb migration from Subversion to Git,” Journal of Physics: Conference Series, vol. 898, pp. 1-4, 2017, doi: 10.1088/1742-6596/898/7/072024.
+
+[5] V. Singh, M. Alshehri, A. Aggarwal, O. Alfarraj, P. Sharma, and K. R. Pardasani, “A holistic, proactive and novel approach for pre, during and post migration validation from subversion to git,” Computers, Materials and Continua, vol. 66, no.3, pp. 23592371, 2021, doi: 10.32604/cmc.2021.013272.
+
+[6] Á. M. Guerrero-Higueras et al., “Academic Success Assessment Through Version Control Systems,” Applied Sciences, vol. 10, no. 4, p. 1492, Feb. 2020. doi:10.3390/app10041492
+
+[7] A. Singh, V. Singh, A. Aggarwal, and S. Aggarwal, "Improving Business deliveries using Continuous Integration and Continuous Delivery using Jenkins and an Advanced Version control system for Microservices-based system," 2022 5th International Conference on Multimedia, Signal Processing and Communication Technologies (IMPACT), Aligarh, India, 2022, pp. 1-4, doi: 10.1109/IMPACT55510.2022.10029149.
+
+[8] S. Mishra, S. K. Sharma, and M. A. Alowaidi, “Analysis of security issues of cloud-based web applications,” Journal of Ambient Intelligence and Humanized Computing, vol. 12, no. 7, pp. 7051-7062, 2021, doi: 10.1007/s12652-020-02370-8.
+
+[9] Y. Ma, Y. Wu, and Y. Xu, “Dynamics of open-source software developer’s commit behavior: An empirical investigation of subversion,” SAC ‘14: Proceedings of the 29th Annual ACM Symposium on Applied Computing, Korea, pp. 1171–1173, Mar. 2014, doi: 10.1145/2554850.2555079.
+
+[10] O. Arafat and D. Riehle, "The Commit Size Distribution of Open Source Software," 2009 42nd Hawaii International Conference on System Sciences, Waikoloa, HI, USA, 2009, pp. 1-8, doi: 10.1109/HICSS.2009.421.
+
+[11] I. Zaikin and A. Tuzovsky, “Owl2vcs: Tools for Distributed Ontology Development” in OWLED, Citeseer, vol. 1080, 2013.
+
+[12] D. I. Hillmann, G. Dunsire, and J. Phipps, “Versioning vocabularies in a linked data world,” International Journal of Semantic Computing, 2014.
+
+[13] L. Halilaj, I. Grangel, G. Coskun, S. Lohmann and S. Auer., “Git4Voc: Collaborative vocabulary development based on Git,” International Journal of Semantic Computing, vol. 10, no. 2, pp. 167–191, 2016, doi: 10.1142/S1793351X16400067.
+
+[14] A. Singh, V. Singh, A. Aggarwal, and S. Aggarwal, "Event Driven Architecture for Message Streaming data driven Microservices systems residing in distributed version control system," 2022 International Conference on Innovations in Science and Technology for Sustainable Development (ICISTSD), Kollam, India, 2022, pp. 308-312, doi: 10.1109/ICISTSD55159.2022.10010390.
+
+[15] V. Isomöttönen and M. Cochez, “Challenges and Confusions in Learning Version Control with Git,” Proc. Comm. in Comp. and Infor. Sc., vol. 469, pp 178-193, 2014, doi: 10.1007/978-3-319-13206-8_9.
+
+[16] B. Firmenich, C. Koch, T. Richter, D.G. Beer, “Versioning structured object sets using text based Version Control Systems, In Proceedings of the 22nd CIB-W78, Melbourne, 27–30 June 2022.
+
+[17] A. Kaur and D. Chopra, “GCC-Git Change Classifier for Ext. and Classification of Changes in S/we Systems,” Lect. Notes in N/w and Systems, vol. 19, pp. 259-267, 2018, doi: 10.1007/978-981-10-5523-2_24.
+
+[18] Anguita, A. López-Ruiz, R. J. Segura-Sánchez, and A. J. Rueda-Ruiz, “A Version Control System for Point Clouds,” Remote Sensing, vol. 15, no. 18. MDPI AG, p. 4635, Sep. 21, 2023, doi: 10.3390/rs15184635..
+
+[19] V. Singh, A. Singh, A. Aggarwal, and S. Aggarwal, "DevOps based migration aspects from Legacy Version Control System to Advanced Distributed VCS for deploying Micro-services," 2021 IEEE International Conference on Computation System and Information Technology for Sustainable Solutions (CSITSS), Bangalore, India, 2021, pp. 1-5, doi: 10.1109/CSITSS54238.2021.9683718.
+
+[20] N. Nizamuddin, K. Salah, M. Ajmal Azad, J. Arshad, and M. H. Rehman, “Decentralized document version control using ethereum blockchain and IPFS,” Computers &amp; Electrical Engineering, vol. 76. Elsevier BV, pp. 183–197, Jun. 2019. doi: 10.1016/j.compeleceng.2019.03.014.
+
+[20] N. Nizamuddin, K. Salah, M. Ajmal Azad, J. Arshad, and M. H. Rehman, “Decentralized document version control using ethereum blockchain and IPFS,” Computers &amp; Electrical Engineering, vol. 76. Elsevier BV, pp. 183–197, Jun. 2019. doi: 10.1016/j.compeleceng.2019.03.014.
+
+[21] N. N. Zolkifli, A. Ngah, and A. Deraman, “Version Control System: A Review,” Procedia Computer Science, vol. 135. Elsevier BV, pp. 408–415, 2018. doi: 10.1016/j.procs.2018.08.191.
+
+[22] M. Waseem, P. Liang, and M. Shahin, “A Systematic Mapping Study on Microservices Architecture in DevOps,” Journal of Systems and Software, vol. 170, p. 110798, 2020, doi: 10.1016/j.jss.2020.110798.
+
+[23] da Costa and D. N. Nogueira, Guidelines for Testing Microservice-based Applications, Diss. Instituto Politecnico do Porto (Portugal), 2022.
+
+[24] D. R. F. Apolinário and B. B. N de França. "A method for monitoring the coupling evolution of microservice-based architectures," Journal of the Brazilian Computer Society, vol. 27, no. 1, p. 17, 2021, doi: 10.1186/s13173-021-00120-y.
+
+[25] S. Li et al., "Understanding and addressing quality attributes of microservices architecture: A Systematic literature review," Information and software technology, vol. 131, p. 106449, Mar. 2021, doi: 10.1016/j.infsof.2020.106449. BIOGRAPHIES OF AUTHORS Alok Aggarwal is currently spearheading efforts as Professor (CSE), with University of Petroleum and Energy Studies, Dehradun (UK), India. Earned Ph.D. degree in Mobile Computing area from IIT Roorkee, Roorkee India in 2010, Master’s degree (M.Tech.) in Computer Science and Engineering in 2001 and Bachelor’s degree in Computer Science in 1995. Contributing over 20+ years in Teaching (CSE and IT) and as software engineer for 4 years. He has contributed 250+ research articles in various journals and conference procedings, authored 5 books with an H-index of 26. His areas of specialization are mobile computing, mobile ad-hoc networks, lightweight cryptography, and internet-of-things. He can be contacted at email: alok.aggarwal@ddn.upes.ac.in. Vinay Singh is working as Sr. Manager Software and DevOps Engineering (Colorado, USA). Pursuing Ph.D. in CSE from UPES, India. Earned M.S. (CSIT) from Southern Arkansas University, USA. Total 16+ years of experience in Software development in IT and 2 years of experience as a lecturer at DIT University. Area of expertise is the version control system, DevOps, automation, data science, and IT migration. He can be contacted at email: vsbuild@mail.com.
+
