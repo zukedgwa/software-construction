@@ -1,0 +1,46 @@
+Singh V, Aggarwal A, Kumar A, Sanwal S. The Transition from Centralized (Subversion) VCS to Decentralized (Git) VCS: A Holistic Approach. IUP Journal of Electrical & Electronics Engineering. 2019;12(1):7-15. Accessed January 17, 2025. https://search.ebscohost.com/login.aspx?direct=true&AuthType=sso&db=a2h&AN=134815182&site=ehost-live
+
+[1] Y. Ma, Y. Wu and Y. Xu, “Dynamics of open-source software developer’s commit behavior: An empirical investigation of subversion,” in Proc. SAC, ACM, Korea, pp. 1171–1173, 2014.
+
+[2] O. Arafat and D. Riehle, “The commit size distribution of open source software,” in Proc. HICSS, New York, NY: IEEE Computer Society Press, pp. 1–8, 2009.
+
+[3] C. Kolassa, D. Riehle and M. Salim, “A Model of the commit size distribution of open source,” in Proc. SOFSEM, Heidelberg: Springer–Verlag, pp. 52–66, 2013.
+
+[4] R. Samikannu, R. Ravi, S. Murugan and B. Diarra, “An Efﬁcient image analysis framework for the classiﬁcation of glioma brain images using CNN approach,” Computers, Materials & Continua, vol. 63, no. 3, pp. 1133–1142, 2020.
+
+[5] P. Sharma and K. Saxena, “Application of fuzzy logic and genetic algorithm in heart disease risk level prediction,” International Journal of System Assurance Engineering and Management, vol. 8, no. 2, pp. 1109–1125, 2017.
+
+[6] C. Kolassa, D. Riehle and M. Salim, “A Model of the commit size distribution of open source,” in Proc. SOFSEM, Czech Republic, pp. 52–66, 2013.
+
+[7] P. Sharma, K. Saxena and R. Sharma, “Diabetes mellitus prediction system evaluation using C4.5 rules and partial tree,” in Proc. 4th ICRITO, India: IEEE, pp. 1–6, 2015. 2370 CMC, 2021, vol.66, no.3
+
+[8] Y. T. Chen, J. J. Tao, L. Y. Liu, J. Xiong and R. L. Xia, “Research of improving semantic image segmentation based on a feature fusion model,” Journal of Ambient Intelligence and Humanized Computing, 2020.
+
+[9] W. Wang, Y. T. Li, T. Zou, X. Wang, J. Y. You et al., “A novel image classiﬁcation approach via Dense-MobileNet models,” Mobile Information Systems, vol. 2020, 2020.
+
+[10] M. Kumar, M. Alshehri, R. AlGhamdi, P. Sharma and V. Deep, “A DE-ANN inspired skin cancer detection approach using fuzzy C-means clustering,” Mobile Networks and Applications, vol. 25, no. 4, pp. 1319–1329, 2020.
+
+[11] F. Yu, L. Liu, L. Xiao, K. L. Li and S. Cai, “A robust and ﬁxed-time zeroing neural dynamics for computing timevariant nonlinear equation using a novel nonlinear activation function,” Neurocomputing, vol. 350, pp. 108–116, 2019.
+
+[12] S. Vaidya, S. T. Arias, R. Curtmola and J. Cappos, Commit signatures for centralized version control systems. in Advances in Information and Communication Technology, vol. 562. Cham: Springer, 320–328, 2019.
+
+[13] L. Halilaj, I. Grangel, G. Coskun, S. Lohmann and S. Auer, “Git4Voc: Collaborative vocabulary development based on Git,” International Journal of Semantic Computing, vol. 10, no. 2, pp. 167–191, 2016.
+
+[14] J. P. Diane, I. Hillmann and G. Dunsire, “Versioning vocabularies in a linked data world,” International Journal of Semantic Computing, vol. 10, no. 2, pp. 167–191, 2016.
+
+[15] T. M. Li, H. C. Chao and J. M. Zhang, “Emotion classiﬁcation based on brain wave: A survey,” Human-Centric Computing and Information Sciences, vol. 10, pp. 238–249, 2019.
+
+[16] R. Tanwar and P. Sharma, “Caught hacker: Curing DDOS attack,” in Proc. ICTCS, New York, NY, USA: ACM, pp. 4–11, 2016.
+
+[17] I. Zaikin and A. Tuzovsky, “Owl2vcs: Tools for distributed ontology development,” in Proc., OWLED: Citeseer, 2013.
+
+[18] M. Clemencic, B. Couturier, J. Closier and M. Cattaneo, “Lhcb migration from subversion to Git,” Journal of Physics, vol. 898, pp. 1–4, 2017.
+
+[19] A. Kaur and D. Chopra, “GCC-Git change classiﬁer for extraction and classiﬁcation of changes in software systems,” in Proc. ICCT-LNNS, Singapore: Springer, 19, pp. 259–267, 2018.
+
+[20] V. Isomottonen and M. Cochez, “Challenges and confusions in learning version control with Git,” Communications in Computer and Information Science, vol. 469, pp. 178–193, 2014.
+
+[21] S. Mishra, S. K. Sharma and M. A. Alowaidi, “Analysis of security issues of cloud-based web applications,” Journal of Ambient Intelligence and Humanized Computing, vol. 3, no. 1, pp. 50, 2020.
+
+[22] S. K. Sharma, “An empirical model (EM: CCO) for clustering, convergence and center optimization in distributive databases,” Journal of Ambient Intelligence and Humanized Computing, 2020. CMC, 2021, vol.66, no.3 2371
+
